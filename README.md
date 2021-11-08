@@ -2,7 +2,7 @@
 Mod for Team Sonic Racing (PC Steam version) which forces Boost races in exhibition races.
 This mod works only in exhibition mode, no changes are applied in Team Adventure mode.
 
-- Please don't use this tool when playing online (your ang the other players' game might crash).
+- Please don't use this tool when playing online (your and the other players' game might crash anyway).
 
 # How to install
 * Start TSR, then run this program, it should notify you that the mod is activated.
